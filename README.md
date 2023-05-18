@@ -1,7 +1,14 @@
-### Hi there 👋
+### bonjour 👋
+
+Hi! My name is Lara and I'm a software developer based in Montreal, QC. I am currently learning about software performance at scale, and forever working on growing my skills 📖 
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=larakollokian&count_private=true&show_icons=true&theme=cobalt)
+
+<!-- https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g -->
+![Visitor Count](https://profile-counter.glitch.me/larakollokian/count.svg)
 
 <!--
-**larakollokian/larakollokian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
