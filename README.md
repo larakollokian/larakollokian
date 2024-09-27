@@ -1,6 +1,6 @@
 ### bonjour 👋
 
-Hi! My name is Lara and I'm a software developer based in Montreal, QC. I am currently learning about software performance at scale, and forever working on growing my skills 📖 
+Hi! My name is Lara and I'm a software developer based in Montreal, QC. I was previously working on the Checkout Performance and Scale team at Shopify. I am currently looking for my next careere opportunity. I love working on and learning about software performance at scale, and am forever working on growing my skills 📖 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=larakollokian&count_private=true&show_icons=true&theme=cobalt) -->
